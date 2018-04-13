@@ -1,0 +1,28 @@
+body>header{
+  margin-top:60px;
+}
+
+header{ 
+  font-family: 'Monoton', cursive;
+text-align: center;
+  background-color: skyblue
+
+}
+p {
+  text-align:justify;
+    background-color: beige
+}
+nav a {
+  border: dotted yellow 1px;
+  padding:1px;
+  margin:1px;
+}
+a:hover{
+  border: dotted red
+}
+
+article {
+  
+ background-color: blanchedalmond
+}
+

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
+    <title>Formulario</title>
+    <link type="text/css" rel="stylesheet" href="../css/bootstrap.min.css">
+    <link type="text/css" rel="stylesheet" href="../css/miCss.css">
+  </head>
+  <body>
+    <header class="row">
+      <h1 class="col-md-10 col-sm-6 col-12"> BIENVENIDO A NUESTRA WEB! </h1>
+      <picture class="col-md-2 col-sm-6 col-12"> <img src="../imagenes/logo.jpg"
+			alt="logotipo de mi empresa" style="width: 110px; height: 110px;">
+      </picture>
+      <picture class="col-md-2 col-sm-6 col-12"> <img src="../imagenes/autor.jpg"
+			alt="autor" style="width: 110px; height: 110px;">
+      </picture>
+    </header>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+      <div class="colapse navbar-collapse"> <a class="navbar-brand" href="ejerciciostema2/nosotros.html">
+          Nosotros </a> <a class="navbar-brand" href="ejerciciostema2/nuestrosservicios.html">
+          Nuestros Servicios </a> <a class="navbar-brand" href="../index.html">Atrás</a>
+      </div>
+      <button class="navbar-toggler" type="button"><span class="navbar-toggler-icon"></span>
+      </button>
+      <form class="form-inline"> <input class="form-control" placeholder="Buscar..."
+
+          type="text"> <button class="btn btn-outline-success" type="submit">Buscar!</button></form>
+    </nav>
+    <section class="row">
+      <header class="col-md-12 col-sm-12 col-12">
+        <h1>MEGA CABECERA</h1>
+      </header>
+      <article class="col-md-4 col-sm-8 col-12">
+        <h1>Primer texto</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis
+          pretium urna. Ut volutpat arcu ac sapien tempus fringilla. Nunc tellus
+          magna, elementum sit amet turpis et, egestas facilisis enim. Fusce at
+          nisi sit amet sem fringilla interdum pharetra a massa. Proin viverra
+          urna ac erat tincidunt tempor. Vivamus dolor urna, rutrum quis
+          scelerisque sit amet, auctor quis leo. Ut faucibus est eget nulla
+          ornare fermentum. Nullam bibendum molestie mattis. Fusce neque quam,
+          congue sed accumsan sed, gravida id diam.</p>
+      </article>
+      <article class="col-md-4 col-sm-8 col-12">
+        <h1>Segundo texto</h1>
+        <p>Aenean pellentesque congue erat, pretium mollis purus semper eu.
+          Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris
+          tincidunt vitae urna eu auctor. Sed quis mattis nulla. Duis ac tempus
+          eros. Suspendisse potenti. Nullam maximus malesuada varius. Duis
+          mattis, felis eget gravida fermentum, augue purus laoreet dui, blandit
+          molestie diam nisi vitae turpis. Nunc vestibulum interdum sagittis.
+          Cras varius suscipit purus, in tincidunt erat ornare volutpat. Donec
+          ut magna id nunc dignissim faucibus sit amet at nulla. Cras semper,
+          nunc ac laoreet vestibulum, nulla mauris bibendum ipsum, non ornare
+          sapien augue a lacus.</p>
+      </article>
+      <article class="col-md-4 col-sm-8 col-12">
+        <h1>Último texto</h1>
+        <p>Phasellus et elit ultrices, varius nulla id, malesuada eros.
+          Curabitur dui velit, auctor nec fermentum blandit, sagittis quis
+          justo. Vivamus pretium ultrices placerat. Aenean nibh sapien,
+          condimentum sed semper sed, ultricies et metus. Pellentesque accumsan
+          lacus sed velit venenatis, in pellentesque est interdum. Nulla
+          facilisi. Proin a interdum tellus. Quisque porttitor vulputate nunc eu
+          iaculis. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Sed mollis id est quis luctus. Donec imperdiet leo neque, vel
+          scelerisque lacus tempus non.</p>
+        <h3>Rellena con sinceridad</h3>
+      </article>
+    </section>
+    <footer>
+      <p>Copyright</p>
+      <p>Social Media Links</p>
+    </footer>
+  </body>
+</html>
